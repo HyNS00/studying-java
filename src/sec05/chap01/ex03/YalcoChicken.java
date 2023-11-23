@@ -7,7 +7,7 @@ public class YalcoChicken {
 
     // 생성자 : 인스턴스를 만드는 메소드
     // this : 생성될 인스턴스를 가리킴
-    YalcoChicken (int no, String name){
+    public YalcoChicken(int no, String name){
         this.no = no;
         this.name = name;
     }
