@@ -1,4 +1,4 @@
-package sec07.chap04;
+package sec07.chap01.ex04;
 
 public class Click {
     int x;
