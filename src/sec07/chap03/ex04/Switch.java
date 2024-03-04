@@ -1,4 +1,4 @@
-package sec07.ex04;
+package sec07.chap03.ex04;
 
 public class Switch extends FormElement implements Clickable {
     private boolean isOn;

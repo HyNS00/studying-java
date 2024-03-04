@@ -1,4 +1,4 @@
-package sec07.ex04;
+package sec07.chap03.ex04;
 
 public class FormClicker<T extends FormElement & Clickable> {
     private T formElem;
