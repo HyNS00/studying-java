@@ -1,4 +1,4 @@
-package TIL.복습;
+package TIL.복습.toString;
 
 public class Main {
     public static void main(String[] args) {
