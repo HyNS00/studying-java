@@ -37,6 +37,6 @@ public class RegularPolygon {
         return sideLength * sides;
     }
 
-    // @param : 메소드의 매개변수
-    // @return : 메소드의 반환값
+    //🤓 @param : 메소드의 매개변수
+    //🤓 @return : 메소드의 반환값
 }
